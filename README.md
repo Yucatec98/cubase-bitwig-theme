@@ -8,7 +8,7 @@ A cubase inspired theme for bitwig to use with [Berikai/bitwig-theme-editor](htt
 
 ![Bild 27 06 25 um 12 09](https://github.com/user-attachments/assets/96328db3-ff3e-4dc3-8316-75605f7f8061)
 
-In this screenshots i used these settings in Bitwig:
+In this screenshots i used these settings in Bitwig
 Midtones = 0
 Black Level = 50
 Grid Lines = 50
