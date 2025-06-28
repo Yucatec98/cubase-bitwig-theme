@@ -4,14 +4,14 @@ A cubase inspired theme for bitwig to use with [Berikai/bitwig-theme-editor](htt
 
 ## Screenshots
 
-![Bild 27 06 25 um 12 05](https://github.com/user-attachments/assets/49fab9db-a796-4438-89d2-02980bc3a474)
+![Bildschirmfoto 2025-06-28 um 15 03 30](https://github.com/user-attachments/assets/6c05c546-a5e5-4e93-bcfd-219687f8c4d4)
 
-![Bild 27 06 25 um 12 09](https://github.com/user-attachments/assets/96328db3-ff3e-4dc3-8316-75605f7f8061)
+![Bildschirmfoto 2025-06-28 um 15 05 21](https://github.com/user-attachments/assets/36a57396-1a75-446c-b9cf-54fba86f7bef)
 
 In this screenshots i used these settings in Bitwig:
 
-Midtones = 0
+Midtones = 35
 
-Black Level = 50
+Black Level = 35
 
-Grid Lines = 50
+Grid Lines = 75
